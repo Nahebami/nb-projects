@@ -36,8 +36,11 @@ This repository is my **data & analytics portfolio** - a curated set of projects
 |---|---|---|---|
 | [**📚 Book Score Ranking**](projects/book-score-ranking) | A weekly multi-signal scoring engine that ranks which books get resurfaced to users in search. | Athena · Step Functions · BigQuery · Power BI | EdTech · Search Ranking |
 | [**🏷️ Publisher Deduplication**](projects/publisher-deduplication) | ISBN-based publisher resolution that fixes fragmented publisher metrics, lifting accuracy from 69% to 91%. | Databricks · PySpark · Python · SQL | Data Quality · Entity Resolution |
+| [**🎯 Content Acquisition Hitlist**](projects/content-acquisition-hitlist) | Demand-led acquisition hitlist scoring which missing titles to acquire next, from enrolment + reading-list signals. | SQL · Spark · ThoughtSpot | Content Strategy · Demand Modelling |
+| [**🏢 B2B Account Performance**](projects/b2b-account-performance) | A monthly health classification for every active B2B account so CS/AM can triage churn risk and expansion. | SQL · Spark · ThoughtSpot | B2B · Customer Success |
+| [**💸 AI Usage & Cost Tracking**](projects/ai-usage-cost-tracking) | Per-event GBP/USD costing of LLM token and TTS voice spend, with cache-saving visibility. | SQL · Spark · ThoughtSpot | FinOps · AI Cost Observability |
 
-> 🧭 Each project folder contains a full write-up following the same structure: **Context → Problem & Objective → Value → Technical Build → Output & Results**.
+> 🧭 Each project folder contains a full write-up. Most follow **Context → Problem & Objective → Value → Technical Build → Output & Results**, adapted to fit the project.
 
 ---
 
@@ -50,12 +53,11 @@ nb-projects/
 │   ├── README.md
 │   └── cover-letter.md
 └── projects/                     ← one folder per project
-    ├── book-score-ranking/
-    │   ├── README.md             ← full project write-up
-    │   └── sql/                  ← the code
-    └── publisher-deduplication/
-        ├── README.md
-        └── src/
+    ├── book-score-ranking/        ← each has a README.md write-up + code
+    ├── publisher-deduplication/
+    ├── content-acquisition-hitlist/
+    ├── b2b-account-performance/
+    └── ai-usage-cost-tracking/
 ```
 
 ---

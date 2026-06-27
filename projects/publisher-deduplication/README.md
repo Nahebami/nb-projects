@@ -23,7 +23,7 @@
 
 ## 1. Context & Introduction
 
-The Content Acquisition Hitlist scores which missing books Perlego should acquire next, using BMG US enrolment data weighted by institutional reading-list signals. One of its core outputs is a **Publisher Roll-up**: a view grained at one row per publisher, surfacing each publisher's title count, Perlego coverage %, and the average value score of their un-acquired titles, in short, *"which publishers hold the most valuable books we don't yet have."*
+The [Content Acquisition Hitlist](../content-acquisition-hitlist) scores which missing books Perlego should acquire next, using BMG US enrolment data weighted by institutional reading-list signals. One of its core outputs is a **Publisher Roll-up**: a view grained at one row per publisher, surfacing each publisher's title count, Perlego coverage %, and the average value score of their un-acquired titles, in short, *"which publishers hold the most valuable books we don't yet have."*
 
 That roll-up is only as trustworthy as the publisher grain it sits on, and BMG publisher labels are messy. The same real-world publisher appears under many spellings and, worse, under entirely unrelated imprint names. An existing name-matching process (the "canonical" mapping, maintained by the PM) collapses obvious spelling variants but cannot recover cases where one publisher trades under names that look nothing alike.
 

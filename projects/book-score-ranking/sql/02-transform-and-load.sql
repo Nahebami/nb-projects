@@ -198,13 +198,13 @@ with google_clicks as
 with max_date as 
 (
 select max(dates) max_dates
-from perlego_reporting_layer.prod___fct__gads_landing_pages -- frequently updated table added temp (reporting_layer.dev_ma___fct__gads_landing_pages)
+from reporting_layer.prod___fct__gads_landing_pages -- frequently updated table added temp (reporting_layer.dev_ma___fct__gads_landing_pages)
 )
 
 select 
 --min(dates) min_dates, max(dates) max_dates
 cast(book_id as integer) book_id, sum(cast(impressions as double)) impressions, sum(cast(clicks as double)) clicks 
-from perlego_reporting_layer.prod___fct__gads_landing_pages cross join max_date
+from reporting_layer.prod___fct__gads_landing_pages cross join max_date
 where date_format(dates ,'%Y%m%d') >= date_format(date_add('month',-3,date_add('day',0,date_trunc('month',max_dates))),'%Y%m%d')
 and cast(clicks as double) > 0 
  and book_id is not null 
