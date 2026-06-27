@@ -1,8 +1,8 @@
-# Naheem Bamidele — CV
+# Naheem Bamidele - CV
 
 **Senior Data Analyst · Product Analyst · BI & Data Specialist**
 
-📍 United Kingdom  ·  📞 +44 7496 724457  ·  ✉️ [naheem.bamidele@gmail.com](mailto:naheem.bamidele@gmail.com)  ·  🔗 [LinkedIn](#) <!-- TODO: add LinkedIn URL -->
+📍 United Kingdom  ·  📞 +44 7496 724457  ·  ✉️ [naheem.bamidele@gmail.com](mailto:naheem.bamidele@gmail.com)  ·  🔗 [LinkedIn](https://www.linkedin.com/in/naheem-bamidele-728ba271/)
 
 > 📄 A PDF version of this CV can be added here as `Naheem-Bamidele-CV.pdf` for easy download.
 
@@ -12,7 +12,7 @@
 
 Senior Analytics Specialist with **10+ years** across BI, product, and commercial analytics, most recently in subscription edtech. I build self-service data infrastructure, lead experimentation programmes, and deliver actionable, data-driven insights that translate complex data into decisions that move the business forward.
 
-Working closely with cross-functional stakeholders through strong stakeholder management and collaborative data modelling, I have helped **cut acquisition spend by 18%** and **reduce ad hoc requests by 60%**. Currently integrating GenAI and LLMs to build semantic layers that enrich raw data, surface deeper behavioural signals, and turn data into a genuine competitive edge — while ensuring model documentation and metadata are structured for AI context readiness at scale.
+Working closely with cross-functional stakeholders through strong stakeholder management and collaborative data modelling, I have helped **cut acquisition spend by 18%** and **reduce ad hoc requests by 60%**. Currently integrating GenAI and LLMs to build semantic layers that enrich raw data, surface deeper behavioural signals, and turn data into a genuine competitive edge - while ensuring model documentation and metadata are structured for AI context readiness at scale.
 
 ---
 
@@ -31,8 +31,8 @@ Working closely with cross-functional stakeholders through strong stakeholder ma
 
 ## Work Experience
 
-### Perlego Ltd — Senior BI & Data Analyst
-*Jan 2024 – Present*
+### Perlego Ltd - Senior BI & Data Analyst
+*Jan 2024 - Present*
 
 - **Self-Service Architecture:** Own the organisation's self-service data layer enabling 40+ stakeholders across Product, Marketing and Content to independently query insights, cutting ad hoc requests by 60% and freeing 15+ analyst hours weekly.
 - **LTV & Acquisition Modelling:** Architected a channel-level acquisition-engagement model linking user lifetime value to marketing spend, enabling leadership to reduce acquisition budget by 18% while improving 90-day retention.
@@ -43,23 +43,23 @@ Working closely with cross-functional stakeholders through strong stakeholder ma
 - **Executive Dashboards:** Built and maintain the North Star dashboard suite providing real-time visibility into activation, retention, engagement and revenue KPIs with drill-down by segment and channel.
 - **Team Development:** Mentor junior analysts and business power users, and lead workshops that grew self-service BI adoption from 35% to 70% across eligible stakeholders.
 
-### Perlego Ltd — BI & Data Analyst
-*Jan 2022 – Dec 2023*
+### Perlego Ltd - BI & Data Analyst
+*Jan 2022 - Dec 2023*
 
 - **Segmentation & Product Strategy:** Ran deep clustering analysis on subscriber engagement, surfacing behavioural segments that shifted the product team toward a retention-first growth model.
 - **Self-Service Foundation:** Built the foundational self-service data models the current analytics architecture is built on, cutting stakeholder wait times from days to minutes.
 - **Cross-Functional Reporting:** Delivered dashboards for Marketing (campaign attribution), Content (engagement heatmaps) and Finance (revenue forecasting); became go-to analyst for high-stakes, board-ready questions.
 
-### MTN Nigeria — Technical BI Analyst
-*Jan 2019 – Dec 2021*
+### MTN Nigeria - Technical BI Analyst
+*Jan 2019 - Dec 2021*
 
 - **Commercial Intelligence:** Delivered segmentation, churn prediction and competitor analysis informing pricing strategy and retention decisions across a 70M+ subscriber base.
 - **Platform Migration:** Led Oracle-to-Hadoop migration, cutting query times by 80% and enabling previously impossible analyses on full customer datasets.
 - **Process Optimisation:** Streamlined reporting workflows, reducing delivery time by 20% and outsourcing costs by 35%. Awarded Q3 2019 IT Service Excellence Award.
 - **Analytics Adoption:** Ran training across business units that drove a 40% increase in BI tool adoption organisation-wide.
 
-### PBT Group — BI & Data Support Consultant
-*Jan 2015 – Dec 2018*
+### PBT Group - BI & Data Support Consultant
+*Jan 2015 - Dec 2018*
 
 - **Reporting Automation & Frameworks:** Automated recurring reporting and built standardised ETL templates that cut new report development time by 30%, adopted as team best practice.
 - **Client Delivery:** Designed dashboard and mobile analytics solutions and delivered tailored BI solutions that lifted client satisfaction scores by 20%.
@@ -81,5 +81,5 @@ Working closely with cross-functional stakeholders through strong stakeholder ma
 
 ## Education
 
-**BSc Computer Science** — Fountain University, Osogbo, Nigeria
-*Oct 2009 – Aug 2013*
+**BSc Computer Science** - Fountain University, Osogbo, Nigeria
+*Oct 2009 - Aug 2013*

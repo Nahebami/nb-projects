@@ -34,10 +34,10 @@ Who benefits and how? A stakeholder table works well here.
 | | |
 
 ## 4. The Technical Build
-- **Data sources** — where the data comes from
-- **Tools** — the stack
-- **Approach / methodology** — key techniques, with the "why" behind non-obvious choices
-- **Code** — link to scripts, with a short description of each
+- **Data sources** - where the data comes from
+- **Tools** - the stack
+- **Approach / methodology** - key techniques, with the "why" behind non-obvious choices
+- **Code** - link to scripts, with a short description of each
 - Diagrams / workflow images
 
 ## 5. Output & Results
